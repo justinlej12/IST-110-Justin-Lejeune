@@ -1,0 +1,137 @@
+L01: Discussion - Introduce Yourself and Explain What Interests You Most in IT 
+
+Hello, my name is Justin Lejeune and I'm from Collegeville PA. I'm a sophomore majoring in computer science here at Penn State. The IT discipline that appeals most to me is computer science/coding. I bring problem-solving, creativity, and a great work ethic to that field, however, the idea of sitting at a desk most of the day is a mental block I'll have to overcome. People within this discipline may pursue a career in software engineering, cybersecurity, web development, and app development. My current technical strengths are coding in Java, HTML & CSS,  and Python, and one of my weaknesses is understanding computer hardware. I like to play golf and the piano for fun, and there isn't a day when I'm not lifting weights at the IM building. I'm hoping that this year I can land a great internship to work next summer.
+
+L02: Discussion- Binary Statement
+Introduction
+Binary code is the foundation of digital computing, representing information using only two symbols: 0 and 1. In this activity, you'll have the chance to practice translating binary code into understandable text and gain a deeper appreciation for the language of computers.
+
+Prompt:
+Binary Code Translations: You'll be given a series of binary code strings. Your task is to translate these binary sequences into their corresponding text characters using an ASCII table. Each binary string corresponds to a character (letter, number, punctuation, or symbol) in the ASCII character set.
+
+Instructions:
+
+Translate each binary code string provided below into its corresponding ASCII character.
+Post the translated text characters in the discussion forum.
+ 
+Binary Code Strings:
+01001000 01100101 01101100 01101100 01101111 
+01010100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01100001 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01100011 01101111 01100100 01100101 
+01001001 00100000 01101100 01101111 01110110 01100101 00100000 01100100 01100001 01110100 01100001 00001010 00001010
+
+1) Hello
+
+2) This is a binary code
+
+3) I love data
+
+I used an ASCII table and went character by character until I deciphered all three codes. The main challenge of the process was how tedious it was. It would be much easier to create a program to analyze ASCII characters. This activity reinforces the role of binary code by showing how it's used to encode and represent digital information. 
+
+L03: Discussion Data Analytics
+Discussion Prompt - Clearing the Muddiest Point: Data Analytics Terms
+Introduction:
+In the journey of learning data analytics terms like descriptive, predictive, and prescriptive, it's natural to encounter "muddiest points" or areas of confusion. This discussion provides a platform for clarifying these points and deepening our understanding.
+
+Prompt:
+Identifying Muddiest Points:
+Reflect on the data analytics terms: descriptive, predictive, and prescriptive. Identify any specific concepts or aspects that you find particularly confusing or unclear.
+Share your muddiest points with the group, providing a brief description of the confusion.
+Discussion and Reflection:
+Engage in a reflective discussion on how the clarifications and analogies have helped to clear up your muddiest points. Have your understandings evolved? Are there still aspects that need further exploration?
+
+After doing this week's reading, I've learned that descriptive analytics focuses on summarizing past data to understand what has happened, and predictive analytics uses past data to predict future events. However, one of my muddiest points surrounding data analytics categories is perspective analytics due to its similarity to predictive analysis. I've been able to understand how perspective analytics takes future predictive analytics a step further in that it recommends actions based on future predictions, although I'm not positive I fully grasp the difference between the two categories. I'm also a little confused and curious about which types of data models support each category in the data analytics web. 
+
+L04: Discussion - Hardware
+Discussion Prompt: Exploring Computer Hardware
+
+Trends and Innovations
+
+There are several breakthroughs within  AI Chips, GPUs, and RIS. GPUs are becoming far more energy-efficient and powerful, and are being integrated with artificial intelligence to optimize tasks. AI Chips are getting significant boosts in processing power to allow faster, more efficient decision-making. RIS is headed toward the optimization of wireless communication with the development of 6G networks. 
+
+Environmental Impact
+
+Computer hardware manufacturers can use recycled metals and plastics in their production process, leading to less mining and extraction of materials. The use of renewable energy sources during the manufacturing process (such as solar power or wind power) can significantly reduce companies' carbon footprint. In addition, hardware should be designed in a way where it can be updated with individual components instead of replacing entire systems. 
+
+L05: Discussion - Operating System 
+Introduction 
+In this creative and lighthearted activity, you'll have the opportunity to express your feelings toward an operating system or application you use frequently. Whether it's a love letter filled with appreciation or a break-up letter with frustrations, this exercise allows you to explore your emotions through writing.
+
+Prompt
+Choose either Option A or Option B to complete this activity:
+
+Love Letter Imagine writing a love letter to an operating system or application that you absolutely adore and can't imagine living without. Pour your feelings into words and let your appreciation shine through.
+Break-up Letter Picture yourself writing a break-up letter to an operating system or application that has caused you frustration, annoyance, or disappointment. Express your feelings honestly while using a touch of humor.
+
+Dear TikTok, 
+
+Our time spent together has been real but I have to say I'm getting really tired of spending time with you. You're mentally draining, and quite frankly too addicting, so I think I'll have to let you go. There are so many things I'd rather spend my time doing, like hanging out with friends, studying for exams, and focusing on my habits/goals, but you always seem to get in the way. You've also got quite a history when it comes to these feelings in your past relationships, and I'm finally realizing why all the others let you go too. So I guess this is it, I hope you don't drag down others like you once did to me. I'm ready to move on and live my life free of the distractions. 
+
+I'm sorry,
+
+Justin
+
+Why did you choose the particular operating system or application for your letter?
+
+I chose this particular operating system to emphasize how terrible technology addiction can be if you're unable to maintain a proper balance. While many applications on our phones can be quite useful, the short-term gratification provided by apps such as TikTok is completely unhealthy for us.
+
+What emotions did you feel while writing the letter?
+
+While writing the letter, I felt a sense of satisfaction. It feels relieving to talk about letting something go that you know you should but is so difficult to do. I hope that others will read this letter and realize how much time they may be wasting from the endless scrolling.
+
+How does this activity reflect the role that technology plays in our lives?
+
+As I said earlier, this reflects how technology can be very beneficial in our lives, such as tools like communication apps, PDF scanners, calculators etc., or negative such as apps like TikTok and Instagram that utilize a genius method for hooking their users and getting them to spend more unnecessary time on the app- an endless string of short videos that does nothing but waste your time. (if used excessively) 
+
+Did the process of writing the letter help you better understand your feelings toward the technology you interact with?
+
+The process of writing the letter absolutely helped me to be able to better understand my feelings toward TikTok. It puts my thoughts down on paper, and helps me to hopefully inspire others to break the addiciton
+
+L06: Discussion - Programming Languages
+
+Learning Curve: Machine language would probably be the most difficult for beginners to learn due to its complexity and lack of readability. You must also be well-versed in hardware knowledge to understand it completely. Assembly language is made slightly more understandable to beginners because of the use of mnemonics. High-level coding languages would probably be easiest for beginners to start with because it's the most straightforward and due to the abundance of resources available for learning how to code. 
+
+Abstraction Levels: Machine language has no abstraction which will cause programming to be difficult but provides total control over hardware. Mnemonics causes assembly language to have a low level of abstraction because it's slightly more readable this way but still maintains control of hardware. High-level programming languages provide the highest level of abstraction because of their high readability. 
+
+L07: Discussion - Data Organization
+
+Finding an Example: An example of an Excel macro would be a program that tracks sales reports. This macro would perform tasks such as tracking total sales and documenting the number of items sold. 
+Explanation and Purpose: The macro would automate the generation of the key components of a sales report. Rather than perform all the calculations by hand, the macro would calculate figures, sort through data, and help format the table effectively. The process of automation will guarantee consistency as it will avoid silly mistakes.
+Macro Components: The macro will consist of the components "sorting", "calculations", "formatting", and "visuals". The sorting component will filter through data and organize it accordingly, the calculations component will calculate sales and other important information, the formatting component will adjust the appearance of the sheet to maintain organization, and the visuals component will generate graphs and charts to display data.  
+Benefits and Challenges: Some of the benefits of the macro include saving time and consistent reports.  A challenge of the macro includes complexity because of the number of different features it has.
+Customization and Adaptability: The data can be filtered by different criteria, and is easily customizable because if you change a value in a single cell, other cells that use that cell in formulas will automatically update. In addition, different formatting styles will be applied to every element. 
+Learning Resources: YouTube channels like ExcelIsFun, Microsoft VBA documentation, and online course platforms like Coursera can all be helpful resources for learning to implement macros.
+Security Considerations: When creating macros you should always make sure to use sources that are credible and do not carry the risk of malware, as well as protecting the VBA code.
+
+L09: Discussion- The Internet and the Web
+
+Prompt: The internet is a massive network of interconnected computers across the world that communicate with each other and transfer data. It also allows for global connectivity through processes such as email, file sharing, gaming, etc. The World Wide Web is an information system that operates over the Internet, allowing users to explore information through web browsers. It provides an additional layer of the digital experience by allowing users to peruse websites seamlessly and gain knowledge in seconds. 
+
+Historical Context: The internet originated in the 1960s through the development of new technology by the Department of Defense. This ultimately led to the creation of ARPANET which laid the groundwork for the internet we know and use today. Over time, the internet developed to have TPC/IP protocols and domain names. Tim Berners-Lee invented the World Wide Web in 1989. It became a new way for users to access the data on the internet in an organized fashion.  Some of the first web browsers- such as Mosiac- helped connect so many more people to the internet because of how easy it made things. Today, we have more modern browsers like Chrome. 
+
+Global Impact: Both the World Wide Web and the Internet have profoundly impacted society. Communication has become completely revolutionized through things like FaceTime and instant messaging. This allows users to chat from across the globe. Businesses have also completely changed from online payment, delivery, and eCommerce. It helps spread news, drives movements and causes, and makes education easier than ever. 
+
+L11: Discussion - Database Technology and Privacy Issues
+
+Assignment
+The major purpose of this assignment is to have you do some academic library research involving the issues of databases and privacy, then do some critical thinking and analysis about these issues, and finally present the results in an organized and professional post (do not submit extemporized personal opinions). (Tip: Don't forget about the resources found at Writing Assignments: APA Style, and Library Research InformationLinks to an external site..)
+
+Cultural analysts have argued that privacy is less important to a generation that grew up with YouTube, Facebook, Twitter, and texting. On the other hand, this same generation has grown up with database technology more ubiquitous and capable than ever before. Think about how many times this week you've been involved (knowingly or not) with database systems. How do you think the tension between privacy and database technology will or should play out as powerful database applications become ever more pervasive in our world?  
+
+Don't just post your opinion -- do some research and cite studies, give anecdotal examples, create hypotheticals, etc.  You must include cites. Your post can be insightful and creative, it can be scholarly, or it can be both; it should not be just your personal opinion.  
+
+Response
+
+In the last decade, apps like YouTube, Instagram, and Snapchat, have taken users’ data and stored/analyzed it in vast databases, bigger and more advanced than they have ever been before. “The extraordinary growth of social media has given platforms extraordinary access and influence into the lives of users. Social networking companies harvest sensitive data about individuals’ activities, interests, personal characteristics, political views, purchasing habits, and online behaviors” (https://epic.org/issues/consumer-privacy/social-media-privacy/). It is also quite notable that “On social media, Gen Z is more willing to have less privacy in exchange for better online experiences. 12% of Gen Z surveyed would not share any of their data, compared to 33% of other generations, when looking specifically at social media. Looking at these results one can conclude that personalization online outweighs privacy for Gen Z” (https://blogs.elon.edu/publicpolicythinktank23/2024/03/06/generation-z-and-data-privacy-when-people-stop-caring/#:~:text=12%25%20of%20Gen%20Z%20surveyed,outweighs%20privacy%20for%20Gen%20ZLinks to an external site.). It does in fact seem as though GenZ cares less about privacy than other factors involved in the media we consume. I think that the tension between privacy and database technology will cause an increase in transparency and consent. We’ve already seen Zuckerburg grilled about Facebook and how it collects user’s data so I would not be surprised if other major tech companies begin to get interrogated as well. There may also be an increase in regulations and compliance standards, and further education for users about the risk of these online databases and what data is being used. 
+
+Generation Z and Data Privacy: When People Stop Caring. https://blogs.elon.edu/publicpolicythinktank23/2024/03/06/generation-z-and-data-privacy-when-people-stop-caring/#:~:text=12%25%20of%20Gen%20Z%20surveyed,outweighs%20privacy%20for%20Gen%20Z. Accessed 14 Nov. 2024
+
+“Social Media Privacy.” EPIC, epic.org/issues/consumer-privacy/social-media-privacy/. Accessed 14 Nov. 2024.
+
+L13: Discussion- Crowdsourcing
+
+Definition and Basics: Crowdsourcing can be defined as the practice of obtaining ideas and input from masses of individuals typically online. This is so valuable because it taps into the collective knowledge of many people so that lots of perspectives are acknowledged, leading to advancements, innovation, and help. Just one person alone could not compare to the wisdom of a large group. Kickstarter, for example, allows for many people to donate to a cause, a task that if taken on yourself would be quite trivial.
+
+Challenges and Limitations: There are a variety of challenges and limitations that come along with crowdsourcing, such as the information not being entirely legitimate or fact-checked. There is also the possibility of information overload/spam, which can quickly become overwhelming when you're looking for information that is valuable. Conflicts of interest may also come about, which is way many platforms that allow crowdsourcing are moderated.
+
+
+
